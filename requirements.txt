@@ -1,1 +1,8 @@
-notebook>=6.5
+torch>=1.13
+torchvision>=0.14
+torchaudio>=0.13
+fastai>=2.7
+fastcore>=1.5
+duckduckgo_search>=2.8
+ipykernel>=6.21
+ipywidgets>=8.0
