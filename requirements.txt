@@ -6,3 +6,4 @@ fastcore>=1.5
 duckduckgo_search>=2.8
 ipykernel>=6.21
 ipywidgets>=8.0
+pandas>=1.5
